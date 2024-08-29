@@ -6,9 +6,9 @@ Bem-vindo ao meu repositório de projetos pessoais! Aqui, você encontrará uma 
 
 O repositório está organizado da seguinte maneira:
 
-- `📜 /scripts`: Contém pequenos scripts e utilitários que criei para diversas finalidades.
-- `📱 /aplicativos`: Aqui estão os projetos maiores e aplicativos que desenvolvi.
-- `🧪 /experimentos`: Esta seção contém experimentos e protótipos que criei durante minha jornada de aprendizado.
+- `📜 /Scripts`: Contém pequenos scripts e utilitários que criei para diversas finalidades.
+- `📱 /Aplicativos`: Aqui estão os projetos maiores e aplicativos que desenvolvi.
+- `🧪 /Experimentos`: Esta seção contém experimentos e protótipos que criei durante minha jornada de aprendizado.
 
 ## 🤝 Como Contribuir
 
