@@ -9,22 +9,21 @@
 </head>
 
 <style>
-    .container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-    }
+
 </style>
 
 <body>
     <div class="container">
-        <h2>Bem-vindo ao Monitor de Consumo de Água</h2>
-        <p>Este é um site onde você pode monitorar seu consumo diário de água. Para começar, faça login ou cadastre-se.</p>
+        <div>
+            <h1>Bem-vindo ao Monitor <br />
+                de Consumo de Água</h1>
+            <p>Este é um site onde você pode monitorar seu consumo diário de água.<br />
+                Para começar, faça login ou cadastre-se.</p>
 
-        <div class="actions">
-            <a href="login.php"><button>Login</button></a>
-            <a href="register.php"><button>Cadastro</button></a>
+            <div class="actions">
+                <a href="login.php"><button>Login</button></a>
+                <a href="register.php"><button>Cadastro</button></a>
+            </div>
         </div>
     </div>
 </body>

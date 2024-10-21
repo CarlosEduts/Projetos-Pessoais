@@ -15,6 +15,7 @@ $db->exec("CREATE TABLE IF NOT EXISTS water_logs (
     id INTEGER PRIMARY KEY,
     user_id INTEGER,
     date TEXT,
+    hour TEXT,
     amount INTEGER,
     FOREIGN KEY(user_id) REFERENCES users(id)
 )");

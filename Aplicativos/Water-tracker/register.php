@@ -25,12 +25,17 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </head>
 
 <body>
-    <h2>Cadastro</h2>
-    <form method="post">
-        <input type="text" name="username" placeholder="Usuário" required>
-        <input type="password" name="password" placeholder="Senha" required>
-        <button type="submit">Cadastrar</button>
-    </form>
+    <div class="container">
+        <div>
+            <h2>Cadastro</h2>
+            <form method="post">
+                <input type="text" name="username" placeholder="Usuário" required>
+                <input type="password" name="password" placeholder="Senha" required>
+                <br />
+                <button type="submit">Cadastrar</button>
+            </form>
+        </div>
+    </div>
 </body>
 
 </html>
